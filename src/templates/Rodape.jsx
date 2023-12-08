@@ -13,7 +13,7 @@ export default function Rodape(props){
                             left:0,
                             bottom:0,
                         }}>
-                <p>{props.conteudo||"Rodapé do sistema."}</p>
+                <p>{props.conteudo||"Rodapé do sistema"}</p>
             </div>
         </footer>
     )
